@@ -1,0 +1,131 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE> I - Introdução</TITLE>
+</HEAD>
+<BODY BGCOLOR="3399FF">
+
+<B><FONT SIZE=5><P ALIGN="JUSTIFY">I - Introdu&ccedil;&atilde;o</P>
+</B></FONT><P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY">L&Oacute;GICA</B> &eacute; o estudo do racioc&iacute;nio dedutivo.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><I><FONT SIZE=5><P ALIGN="JUSTIFY">Hist&oacute;rico</P>
+</B></I></FONT><P ALIGN="JUSTIFY"></P>
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Arist&oacute;teles <FONT FACE="Symbol">&#174;</FONT>
+ leis do discurso;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Idade M&eacute;dia <FONT FACE="Symbol">&#174;</FONT>
+ l&oacute;gica filos&oacute;fica;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Boole (1815-1864) <FONT FACE="Symbol">&#174;</FONT>
+ &aacute;lgebra booleana;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Peano (c.1865) <FONT FACE="Symbol">&#174;</FONT>
+ axiomatiza&ccedil;&atilde;o da aritm&eacute;tica;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Irege (1874) <FONT FACE="Symbol">&#174;</FONT>
+ investigar fundamentos da matem&aacute;tica;</LI></P></UL>
+<DIR>
+<DIR>
+<DIR>
+
+<P ALIGN="JUSTIFY">                <FONT FACE="Symbol">&#174;</FONT>
+ l&oacute;gica moderna;</P></DIR>
+</DIR>
+</DIR>
+
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Russel-Wentehead (1910) <FONT FACE="Symbol">&#174;</FONT>
+ Princ&iacute;pio Matem&aacute;tico - l&oacute;gica moderna;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Hilbert (1925) <FONT FACE="Symbol">&#174;</FONT>
+ formaliza&ccedil;&atilde;o da no&ccedil;&atilde;o de prova;</LI></P></UL>
+<DIR>
+<DIR>
+
+<P ALIGN="JUSTIFY">                       <FONT FACE="Symbol">&#174;</FONT>
+ mecaniza&ccedil;&atilde;o da matem&aacute;tica;</P></DIR>
+</DIR>
+
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Gentzen (1935) <FONT FACE="Symbol">&#174;</FONT>
+ teoria da prova;</LI></P>
+<P ALIGN="JUSTIFY"><LI>Godel (1931-1935) <FONT FACE="Symbol">&#174;</FONT>
+ completude da l&oacute;gica;</LI></P></UL>
+<DIR>
+<DIR>
+
+<P ALIGN="JUSTIFY">                               <FONT FACE="Symbol">&#174;</FONT>
+ incompletudeda aritm&eacute;tica</P></DIR>
+</DIR>
+
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Investigar Fundamentos da Computa&ccedil;&atilde;o.</LI></P></UL>
+
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY"><FONT FACE="Wingdings">&#196;</FONT>
+ O que &eacute; L&oacute;gica?</P>
+<P ALIGN="JUSTIFY">&Eacute; o estudo do racioc&iacute;nio dedutivo. (informal)</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">Mais formalmente:</P>
+<P ALIGN="JUSTIFY"><FONT FACE="Wingdings">&#196;</FONT>
+ L&oacute;gica &eacute; uma linguagem?</P>
+<P ALIGN="JUSTIFY"></P>
+<B><I><P ALIGN="JUSTIFY">L&oacute;gica:</P>
+<CENTER></B></I><P ALIGN="JUSTIFY">&#9;&#9;LINGUAGEM<BR>
++<BR>
+ REGRAS DE DEDU&Ccedil;&Atilde;O / INFER&Ecirc;NCIA<BR>
++<BR>
+SEM&Acirc;NTICA</CENTER>
+<P ALIGN="JUSTIFY"></P>
+<B><I><FONT SIZE=4><P ALIGN="JUSTIFY">Linguagem</P>
+</B></I></FONT><P ALIGN="JUSTIFY">&#9;&Eacute; usada para descrever o conhecimento que se deseja representar.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><I><FONT SIZE=4><P ALIGN="JUSTIFY">Regras de Dedu&ccedil;&atilde;o</P>
+</B></I></FONT><P ALIGN="JUSTIFY">&#9;Servem para tirar conclus&otilde;es a partir do conhecimento representado na linguagem.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><I><FONT SIZE=4><P ALIGN="JUSTIFY">Sem&acirc;ntica</P>
+</B></I></FONT><P ALIGN="JUSTIFY">&#9;Serve para dar significado aos objetos descritos na linguagem.</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<B><I><FONT SIZE=4><P ALIGN="JUSTIFY">Tipos mais comuns de l&oacute;gica:</P>
+
+<UL>
+
+<UL>
+</B></I></FONT><P ALIGN="JUSTIFY"><LI>L&oacute;gica Cl&aacute;ssica Proposicional</LI></P>
+<P ALIGN="JUSTIFY"><LI>L&oacute;gica Cl&aacute;ssica de 1<U><SUP>a</U></SUP> Ordem</LI></P></UL>
+</UL>
+
+<P ALIGN="JUSTIFY"></P>
+<B><I><FONT SIZE=4><P ALIGN="JUSTIFY">Hip&oacute;teses da L&oacute;gica Cl&aacute;ssica:</P>
+<P ALIGN="JUSTIFY"></P>
+
+<UL>
+
+<UL>
+</B></I></FONT><P ALIGN="JUSTIFY"><LI>proposic&otilde;es at&ocirc;micas;</LI></P>
+<P ALIGN="JUSTIFY"><LI>proposi&ccedil;&otilde;es mais complexas podem ser constru&iacute;das (decompostas) de (em) proposi&ccedil;&otilde;es at&ocirc;micas;</LI></P>
+<P ALIGN="JUSTIFY"><LI>proposi&ccedil;&otilde;es at&ocirc;micas s&atilde;o <U>verdadeiras</U> ou <U>falsas</U> (2 valores);</LI></P>
+<P ALIGN="JUSTIFY"><LI>o valor verdade de uma proposi&ccedil;&atilde;o mais complexa somente depende dos valores das proposi&ccedil;&otilde;es at&ocirc;micas que a comp&otilde;e.</LI></P></UL>
+</UL>
+
+<P ALIGN="JUSTIFY"></P><DIR>
+<DIR>
+<DIR>
+<DIR>
+
+<B><P ALIGN="JUSTIFY">Ex1:</B>  Jo&atilde;o ama Maria. (V ou F)</P>
+<P ALIGN="JUSTIFY">       </P>
+<B><P ALIGN="JUSTIFY">Ex2:</B>  Jo&atilde;o &eacute; estudante <U>e</U> Jo&atilde;o &eacute; alto.</P>
+<P ALIGN="JUSTIFY">       &#9;<FONT FACE="Symbol">&#174;</FONT>
+ o valor verdade s&oacute; depende de sabermos se:</P>
+<P ALIGN="JUSTIFY">&#9;&#9;Jo&atilde;o &eacute; estudante. (V ou F?)</P>
+<P ALIGN="JUSTIFY">&#9;&#9;Jo&atilde;o &eacute; alto. (V ou F?)</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+</BODY>
+</HTML>

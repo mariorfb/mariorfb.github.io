@@ -1,0 +1,42 @@
+LISTA DE LÓGICA
+
+Prof. Mário Benevides
+
+
+
+PROVAR USANDO O PROVADOR DO GABBAY:
+
+
+1) P /\ Q /\ R -> S , P \/ Q -> Q , ~P |- ~Q
+
+2) P \/ Q , P -> R , Q -> R , |- R
+
+3) (A \/ B) \/ C |- A \/ (B \/ C)
+
+4) P -> Q , ~Q  |-  ~P
+
+5) ~P -> Q  |-  P \/ Q
+
+6) |- (A -> B) -> A) -> A
+
+7) (P -> Q) -> Q , Q -> P |-  P
+
+8) |- ~(P /\ ~P)
+
+9) |- ~(P -> Q) -> P
+
+10) |- ~(P -> Q) -> ~Q
+
+11) |- B \/ (B -> C)
+
+12) |- (P -> ~P) -> ~P
+
+13) |- (~P -> P) -> P
+
+14) |- (P /\ Q) -> ~( ~P \/ ~Q)
+
+15) |- A -> (~B -> ~(A -> B))
+
+16) |- ~P -> ((P \/ Q) <-> Q)
+
+17) |- A <-> ((A\/ B) \/ (~A /\ ~B))

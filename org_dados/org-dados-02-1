@@ -1,0 +1,194 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.76 [en] (X11; U; Linux 2.4.2-2 i686) [Netscape]">
+   <title>AiML' 2002: Advances in Modal Logic 2002</title>
+<!-- aiml02.htm -->
+<!-- to be used if page has a subtree of pages below it; -->
+<!-- links to subtree to be included in wide margins -->
+<!-- use narrow margin for `leaves of the tree'-->
+</head>
+<body text="#000000" bgcolor="#CCFFFF" link="#000088" vlink="#111111" alink="#111111" background="back.gif">
+&nbsp;
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="570" >
+<caption>&nbsp;</caption>
+
+<tr>
+<td ALIGN=LEFT VALIGN=TOP>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="122" >
+<tr>
+<td>
+<dt>
+<b><font face="Helvetica,Arial">Org. Dados</font></b></dt>
+
+<br><font face="Helvetica,Arial"><a href="#Calendário">Calend&aacute;rio</a></font>
+<br><font face="Helvetica,Arial"><a href="#Critério">Crit&eacute;rio</a></font>
+<br><font face="Helvetica,Arial"><a href="#Notas de Aula">Notas de Aula</a></font>
+<br><font face="Helvetica,Arial"><a href="#Avaliações">Avalia&ccedil;&otilde;es</a></font>
+<br><font face="Helvetica,Arial"><a href="#Listas de Exercício">Listas&nbsp;
+Exerc&iacute;cios</a></font>
+<br><font face="Helvetica,Arial"><a href="#Lista de Avisos">Lista de Avisos</a></font>
+<br><font face="Helvetica,Arial"><a href="#Sites de Interesse">Sites de
+Interesse</a></font>
+<br><font face="Helvetica,Arial"><a href="#Contato">Contato</a></font></td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+
+<td ALIGN=LEFT VALIGN=TOP>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="28" >
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+
+<td ALIGN=LEFT VALIGN=TOP>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="412" >
+<tr>
+<td></td>
+</tr>
+
+<tr>
+<td>
+<dt>
+<b><font face="Helvetica,Arial"><font size=+2>Organiza&ccedil;&atilde;o
+de Dados</font></font></b></dt>
+
+<h1>
+<font face="Helvetica,Arial"><font size=+0>Primeiro Semestre de 2002</font></font></h1>
+
+<h1>
+<i><font face="Helvetica,Arial"><font size=+0>Depart. Ci&ecirc;ncia da
+Computa&ccedil;&atilde;o - IM -URFJ</font></font></i></h1>
+
+<h1>
+<font face="Helvetica,Arial"><font size=+0>Prof. Mario R. F. Benevides</font></font></h1>
+
+<hr>
+<p>Esta &eacute; a p&aacute;gina do curso de Organiza&ccedil;&atilde;o
+de Dados I. O curso est&aacute; sendo ministrado no pr&eacute;dio do CCMN,
+sala F2025, quartas e sextas das 10-12.
+<p><a NAME="Calendário"></a><b><font face="Helvetica,Arial">Calend&aacute;rio</font></b>
+<p>P1 - 28/06
+<br>P2 - 16/08
+<br>PF - 23/08
+<br>2C - 28/08
+<br>&nbsp;
+<p><a NAME="Critério"></a><b>Crit&eacute;rio</b>
+<p>O crit&eacute;rio &eacute; o padr&atilde;o do IM,
+<p>MP = (P1 + P2) / 2
+<p>MF = (MP + PF) / 2
+<br>&nbsp;
+<p>com as seguintes modific&ccedil;&otilde;es:
+<p><u>se</u> P1 e P2 > 4,9 <u>ent&atilde;o</u> APROVADO MF := MP
+<br><u>sen&atilde;o</u> <u>se</u> P1 e P2 > 3,9 <u>ent&atilde;o</u> <u>se</u>
+MP > 5,9 <u>ent&atilde;o</u> APROVADO MF:= MP
+<p>Os alunos que fizerem segunda chamada s&atilde;o avaliados pelo crit&eacute;rio
+padr&atilde;o.
+<br>&nbsp;
+<p><a NAME="Notas de Aula"></a><b>Notas de Aula</b>
+<br>&nbsp;
+<ul>
+<li>
+<b>Introdu&ccedil;&atilde;o &agrave; Estrutura de Dados: Listas, Pilhas,
+Filas, &Aacute;rvores e Grafos (<a href="Introducao.rar">arquivo em PS</a>)</b></li>
+
+<li>
+<b>Introdu&ccedil;&atilde;o &agrave; Complexidade de Algoritmos (<a href="Complexidade.rar">arquivo
+em PS</a>)</b></li>
+
+<li>
+<b>Algoritmos de Busca (<a href="Busca.rar">arquivo em PS</a>)</b></li>
+
+<li>
+<b>&Aacute;rvores de Busca &Oacute;tima (<a href="Arv-Bus-ot.rar">arquivo
+em PS</a>)</b></li>
+
+<li>
+<b>&Aacute;rvores Balanceadas (<a href="ARVBASL.rar">arquivo em PS</a>)</b></li>
+
+<li>
+<b>Notas adicionais do Prof. Claudio Esperan&ccedil;a sobre &aacute;rvore
+rubro-negra (<a href="Rubro-claudio.rar">arquivo PowerPoint</a>)</b></li>
+
+<li>
+<b>Notas do Prof. David D&eacute;harbe sobre &aacute;rvore B, estas s&atilde;o
+bseadas no livro do Cormen (<a href="http://www.consiste.dimap.ufrn.br/~david/Disciplinas/2001.2/DIM013/Recursos/arvoreb.ps">arquivo
+em PS</a>)</b></li>
+
+<li>
+<b>Notas sobre Ordena&ccedil;&atilde;o (<a href="ord.rar">arquivo em PS</a>)</b></li>
+</ul>
+
+<p><br><font size=-1>Para visualizar os arquivos em PS &eacute; recomendado
+baixar o <a href="http://www.cs.wisc.edu/~ghost/">GhostView</a>.</font>
+<br>&nbsp;
+<p><a NAME="Avaliações"></a><b>Avalia&ccedil;&otilde;es</b>
+<ul>
+<li>
+<b>Notas da <a href="notas.htm">P1, P2 e PF</a></b></li>
+</ul>
+<a NAME="Listas de Exercício"></a><b>Listas de Exerc&iacute;cios</b>
+<ul>
+<li>
+<b>Primeira Lsita de Exerc&iacute;cios (<a href="Exercicio-1.rar">arquivo
+doc</a>)</b></li>
+
+<li>
+<b>Segunda Lsita de Exerc&iacute;cios (<a href="Exercicio-2.rar">arquivo
+doc</a>)</b></li>
+</ul>
+<a NAME="Lista de Avisos"></a><b>Lista de Avisos</b>
+<ol>
+<li>
+<b><u><font size=+2>Revis&atilde;o da PF</font></u> ser&aacute; na quarta
+dia 28/08 &agrave;s 11:00 na sala de aula junto com a 2C.</b></li>
+</ol>
+<a NAME="Sites de Interesse"></a><b>Sites de Interesse</b>
+<ul>
+<li>
+<b><a href="http://www.lcg.ufrj.br/algoritmos">Professor Claudio Esperan&ccedil;a</a></b></li>
+
+<li>
+<b><a href="http://www.lcg.ufrj.br/orgdados1">Professor Paulo Roma</a></b></li>
+
+<li>
+<b><a href="http://www.consiste.dimap.ufrn.br/~david/">Professor David
+D&eacute;harbe</a></b></li>
+</ul>
+
+<br>&nbsp;
+<p><a NAME="Contato"></a><b>Contato</b>
+<br>Prof. Mario R. Benevides
+<br>COPPE-Sistemas
+<br>CT - H322B sala 10
+<br>Email: mariob@ufrj.br
+<br>&nbsp;
+<br>&nbsp;
+<p>&nbsp;</td>
+</tr>
+
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+
+<td ALIGN=LEFT VALIGN=TOP>
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH="8" >
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

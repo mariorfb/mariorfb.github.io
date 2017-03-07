@@ -1,0 +1,24 @@
+							
+								Aula de Exercícios
+
+									08-10-2002
+
+								Prof. Mario Benevides
+
+1) Fazer os algoritmos de inserção e remoção em lista circular.
+
+2) Fazer um algoritmo de alteração do campo dado numa lista encadeada.
+
+3) Fazer os algoritmos de busca, inserção e remoção em lista encadeada
+simples, circular e duplamente encadeada não ordena.
+
+4) Retirar a recursivaidade do algoritmo de caminhamento em árvore
+em ordem central.
+
+5) Faça um algoritmo para trocar todos os filhos da esquerda com
+os da direita, para todo nó.
+
+6) Dado o seguinte grafo G=<V,E>, onde
+V={SP, Rio, BH, Br, Vo, Sv, Re, Fo}
+E={(SP,Rio), (SP,BH), (BH,Br), (Rio,BH), (Rio,Vo), (Vo,Sv),(Br,Sv), (Br,Fo), (Sv, Re), (Re, Fo)}.
+Use o algoritmo de Busca em Largura para achar o caminho de SP a Fo.

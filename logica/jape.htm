@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>Curso de Lógica</title>
+<style type="text/css">
+<!--
+a:link {text-decoration: underline; color: #2D5677;}
+a:hover {text-decoration: underline; background:#e6f8fa; color: #2D5677;}
+a:visited {text-decoration: underline; color: #2D5677;}
+a:active {text-decoration: underline; color: #2D5677;}
+.style20 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+-->
+</style>
+</head>
+
+<body bgcolor="#C2D4E3">
+
+<table width="98%" border="0" align="center">
+  <tr>
+    <td><div align="center"><img border="0" src="site_logica/logo_jape.png" width="368" height="121"></div></td>
+  </tr>
+<tr>
+<td>&nbsp;   </td>
+</tr>
+</table>
+
+<table width="98%" border="0" align="center">
+  <tr>
+    <td>
+      <table width="95%" align="center" border="0">
+        <tr>
+          <td><p align="center" class="style20"><strong>Material de apoio – JAPE (v7_d4_9) </strong></p>
+            <p align="left" class="style20"><strong>1.&nbsp; Java Runtime Environment </strong></p>
+            <p class="style20">Para rodar o JAPE, &eacute; necess&aacute;rio primeiramente ter um JRE (Java Runtime Environment) instalado. Desta forma, o sistema operacional passa a contar com recursos da linguagem Java, e o JAPE pode ser executado independente da plataforma escolhida. A vers&atilde;o do JRE deve ser a 1.4 ou superior. </p>
+            <p class="style20">O download do JRE pode ser realizado no site <a target="_blank" href="http://www.javasoft.com/"><strong>www.javasoft.com</strong></a>. </p>
+            <p class="style20"><strong><br>
+            2. Instala&ccedil;&atilde;o do JAPE </strong></p>
+            <p class="style20">A vers&atilde;o mais atual o JAPE (em Agosto de 2006) &eacute; a v7_d4_9. Para come&ccedil;ar a utiliz&aacute;-lo, fa&ccedil;a o download no site <a target="_blank" href="http://jape.comlab.ox.ac.uk:8080/jape/BUILDS/v7_d4_9/"><strong>http://jape.comlab.ox.ac.uk:8080/jape/BUILDS/v7_d4_9/</strong></a> e, de acordo com o sistema operacional, selecione o arquivo desejado: <em>InstallWindowsjape.jar</em> para Windows ou <em>InstallLinuxjape.jar</em>&nbsp; para Linux. </p>
+            <p class="style20">Com o download conclu&iacute;do, execute o programa InstallWindowsjape.jar (Windows). Quando aparecer a frase “The installer will clean up on exit”, clique no bot&atilde;o “Exit (and clean up) now”. Ser&aacute; criada a pasta “Jape” no local indicado (se o destino n&atilde;o for alterado, a pasta ser&aacute; criada no mesmo local do arquivo de instala&ccedil;&atilde;o). </p>
+            <p class="style20">Para come&ccedil;ar a utilizar o JAPE, execute o arquivo “Jape.jar”. </p>
+            <table width="100%">
+              <tr>
+                <td width="3%"><span class="style20"><img src="site_logica/exclamacao.jpg" border="0"></span></td>
+                <td width="97%" class="style20">Vale lembrar novamente que se n&atilde;o houver o Java instalado ent&atilde;o a aplica&ccedil;&atilde;o n&atilde;o ir&aacute; rodar. N&atilde;o &eacute; necess&aacute;rio ter o JDK (Java Development Kit) completo, apenas o JRE conforme dito anteriormente. </td>
+              </tr>
+            </table>            <p class="style20"><br>
+            <strong>
+            3. Utilizando o JAPE </strong></p>
+            <p class="style20">Para fazer uma prova utilizando dedu&ccedil;&atilde;o natural, por exemplo, selecione a op&ccedil;&atilde;o do menu “File” e “Open New Theory...”. Na janela que se abrir&aacute;, escolha a pasta “examples”, depois a pasta “natural_deduction” e escolha um exemplo (I2L.jt). </p>
+            <p class="style20">Ser&atilde;o abertas tr&ecirc;s janelas, cada uma com conjecturas diferentes: as cl&aacute;ssicas, que s&atilde;o provadas com a regra de redu&ccedil;&atilde;o ao absurdo, as inv&aacute;lidas, que n&atilde;o possuem prova v&aacute;lida, e as conjecturas. </p>
+            <p class="style20">Para seguir os passos da prova, utilize os itens Backward e Forward. No primeiro caso, a op&ccedil;&atilde;o selecionada ir&aacute; partir de uma conclus&atilde;o e chegar&aacute; ao seu desmembramento. No segundo caso, a op&ccedil;&atilde;o desejada ir&aacute; partir de uma (ou mais) premissa(s) para uma conclus&atilde;o (final ou n&atilde;o). </p>
+            <p class="style20"><strong><br>
+            4. Exemplo </strong></p>
+            <p class="style20">Para entender melhor, siga os passos da seguinte prova: </p>
+            <p class="style20">&#149;&nbsp; Selecione a linha EvF,  ~F |- E na janela de conjecturas; <br>
+            &#149;&nbsp; Clique o bot&atilde;o “Prove”; <br>
+            &#149;&nbsp; Selecione EvF (linha 1); <br>
+            &#149;&nbsp; No menu, escolha a op&ccedil;&atilde;o “v elim (makes assumptions)” no item Forward ; <br>
+            &#149;&nbsp; Selecione ~F (linha 1) e F (linha 3); <br>
+            &#149;&nbsp; No menu, escolha a op&ccedil;&atilde;o “ ~ elim” tamb&eacute;m no item Forward ; <br>
+            &#149;&nbsp; Selecione E (linha 5); <br>
+            &#149;&nbsp; No menu, escolha a op&ccedil;&atilde;o “contra (construtive)” no item Backward . <br>
+            <br>
+            Com isso, ser&aacute; exibida a seguinte tela com o resultado da prova: </p>
+            <table width="100%" border="0" align="center">
+		  <tr><td align="center">
+		  <span class="style20"><img width="325" height="296" src="site_logica/exemplo_jape.jpg"></span>
+		  </td>
+		  </tr>
+		  </table>		  </td>
+        </tr>
+      </table>
+      <p align="right" class="style20"><a href="logica.htm"><strong>&lt;&lt; Voltar</strong></a></p></td>
+  </tr>
+</table>
+</body>
+</html>
