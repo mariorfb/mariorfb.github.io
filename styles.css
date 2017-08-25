@@ -1,0 +1,25 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+	padding-top: 3rem;
+}
+
+a:not([href]):not([tabindex]) {
+	color: #636c72;
+}
+
+.display-3 {
+	font-size: 3.5rem;
+}
+
+.dropdown-item {
+	padding: 0px 1.5rem;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #ffd700;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+	color: #ffe662;
+}
